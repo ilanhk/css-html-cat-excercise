@@ -1,0 +1,17 @@
+
+
+.title{
+  text-align: center;
+
+}
+
+.container{
+  padding: 5px;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.lionp{
+  text-align: left;
+}
